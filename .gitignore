@@ -1,0 +1,8 @@
+/target/
+/target-eclipse
+*/**/target/
+*/**/test-results
+*/**/.project
+*/**/.classpath
+*/**/.settings
+/.project
